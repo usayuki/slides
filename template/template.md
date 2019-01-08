@@ -1,10 +1,6 @@
-layout: true
-class: center, middle
----
 # タイトル
 １ページ目
 ---
-layout:false
 ## スライド１
 ### スライド１
 ２ページ目
