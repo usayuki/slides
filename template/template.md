@@ -11,7 +11,7 @@ class: center, middle
 class AboutMe {
 
     var name = "usayuki"
-    var employedBy = "CA MOBILE, Ltd."
+    var employedBy = "CAM, Inc."
     var job = "iOS Developer"
     var twitter = "@usayukisan"
     var github = "usayuki"
